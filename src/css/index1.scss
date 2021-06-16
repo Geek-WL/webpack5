@@ -1,0 +1,11 @@
+$bg-color: lawngreen;
+div {
+  &.content1 {
+    background: $bg-color;
+    transform: translateX(300px);
+    color: #11333366;
+  }
+}
+:fullscreen {
+
+}
